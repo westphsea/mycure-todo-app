@@ -1,6 +1,6 @@
 # todo-app
 
-> A Vue.js project
+> A Vue.js project, submission for a web development skill assessment test for MYCURE. modified from https://github.com/scotch-io/vue-todo, added date fields to satisfy requirements.
 
 ## Build Setup
 
